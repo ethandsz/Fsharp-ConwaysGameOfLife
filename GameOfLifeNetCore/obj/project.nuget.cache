@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BreotKDWKWovl1luM3aZxdj196A5jWcJ8p+2NyW2Dq92fGKDiDxh7eajv95XQQAhIme4qLYKPZqLOBtUszpuOw==",
+  "success": true,
+  "projectFilePath": "/Users/ethandsouza/RiderProjects/GameOfLifeNetCore/GameOfLifeNetCore/GameOfLifeNetCore.fsproj",
+  "expectedPackageFiles": [
+    "/Users/ethandsouza/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
